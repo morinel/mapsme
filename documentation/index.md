@@ -18,7 +18,7 @@ The mapsme variable is a reference to the Module object.
 var ret = require("nl.vanvianen.mapsme").openMapsMe({
 	lat: 48.8582,
 	lon: 2.2945
-	name: 'Eiffel Tower',
+	name: 'Eiffel Tower'
 });
 if (!ret) {
 	alert('Maps.ME is not installed');

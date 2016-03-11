@@ -26,7 +26,7 @@ A zip file will be created in the `dist` folder.
 var ret = require("nl.vanvianen.mapsme").openMapsMe({
 	lat: 48.8582,
 	lon: 2.2945
-	name: 'Eiffel Tower',
+	name: 'Eiffel Tower'
 });
 if (!ret) {
 	alert('Maps.ME is not installed');
