@@ -1,0 +1,4 @@
+You can place any .jar dependencies in this directory and they will be included
+when your module is being compiled.
+
+This api-android.jar is compiled from https://github.com/mapsme/api-android

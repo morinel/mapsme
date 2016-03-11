@@ -1,0 +1,8 @@
+.classpath
+.settings
+.project
+bin
+build
+dist
+libs
+android/build.properties
