@@ -1,0 +1,8 @@
+"/Users/jeroen/Projects/mapsme/android/src/nl/vanvianen/mapsme/MapsmeModule.java"
+"/Users/jeroen/Projects/mapsme/android/build/generated/java/nl/vanvianen/mapsme/MapsmeBootstrap.java"
+"/Users/jeroen/Projects/mapsme/android/build/generated/r/android/support/compat/R.java"
+"/Users/jeroen/Projects/mapsme/android/build/generated/r/android/support/design/R.java"
+"/Users/jeroen/Projects/mapsme/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/jeroen/Projects/mapsme/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/jeroen/Projects/mapsme/android/build/generated/r/nl/vanvianen/mapsme/R.java"
+"/Users/jeroen/Projects/mapsme/android/build/generated/r/ti/modules/titanium/ui/R.java"

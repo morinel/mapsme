@@ -2,17 +2,17 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0.0
-apiversion: 2
-architectures: armeabi armeabi-v7a x86
+version: 1.0.1
+apiversion: 4
+architectures: armeabi-v7a x86 arm64-v8a
 description: Open Maps.me
 author: Jeroen van Vianen
 license: Apache
-copyright: 2016
+copyright: 2018
 
 # these should not be edited
 name: mapsme
 moduleid: nl.vanvianen.mapsme
 guid: 943ba233-0d29-47ba-b147-3cde0129a70c
 platform: android
-minsdk: 5.2.0.GA
+minsdk: 7.0.0.GA
